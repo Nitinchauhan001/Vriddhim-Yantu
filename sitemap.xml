@@ -28,7 +28,7 @@
 </url>
 <url>
   <loc>https://vriddhimyantu.com/daily-articles</loc>
-  <lastmod>2025-07-05T16:10:27+00:00</lastmod>
+  <lastmod>2025-07-07T16:10:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -74,6 +74,11 @@
 <url>
   <loc>https://vriddhimyantu.com/whats-going-wrong-with-indian-it</loc>
   <lastmod>2025-07-05T16:10:27+00:00</lastmod>
+  <priority>0.50</priority>
+</url> 
+<url>
+  <loc>https://vriddhimyantu.com/inside-sebi-crackdown-on-jane-street</loc>
+  <lastmod>2025-07-07T16:10:27+00:00</lastmod>
   <priority>0.50</priority>
 </url>
 
